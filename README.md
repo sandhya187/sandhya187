@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Sandhya  
+💻 Frontend Web Developer  
 
-<!--
-**sandhya187/sandhya187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Frontend Web Developer who loves building clean, responsive, and user-friendly websites using **HTML, CSS, and JavaScript**.  
+I enjoy learning new technologies and improving my skills through real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♀️ About Me  
+- 🎓 Web Development learner & fresher  
+- 🌱 Currently improving JavaScript & frontend skills  
+- 💡 Interested in creating modern UI designs  
+- 🤝 Open to internships, junior roles & freelance work  
+
+---
+
+## 🛠️ Skills  
+- HTML5  
+- CSS3  
+- JavaScript (Basics)  
+- Responsive Web Design  
+- Git & GitHub (Basics)  
+
+---
+
+## 📂 Projects  
+
+### 🔹 Portfolio Website  
+- Personal portfolio built using HTML, CSS & JavaScript  
+- Fully responsive design  
+🔗 Live Demo: https://sandhya187.github.io/Portfolio/  
+
+### 🔹 Electronic Website  
+- Product-based frontend website  
+- Clean UI & responsive layout  
+🔗 Live Demo: https://sandhya187.github.io/electronic/  
+
+### 🔹 Second Website  
+- Practice project using HTML & CSS  
+- Focus on layout & styling  
+🔗 Live Demo: https://sandhya187.github.io/second-website/  
+
+---
+
+## 🌐 Connect With Me  
+- 💼 Portfolio: https://sandhya187.github.io/Portfolio/  
+- 🐙 GitHub: https://github.com/sandhya187  
