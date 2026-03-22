@@ -38,7 +38,7 @@ I enjoy learning new technologies and improving my skills through real-world pro
 ### 🔹 Second Website  
 - Practice project using HTML & CSS  
 - Focus on layout & styling  
-🔗 Live Demo: https://sandhya187.github.io/second-website/  
+🔗 Live Demo: https://sandhya187.github.io/movie/
 
 ---
 
